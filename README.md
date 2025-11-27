@@ -30,6 +30,6 @@ The application provides real-time feedback for each lifecycle event using three
 
 1. Logcat Output
 For every lifecycle event, a message is printed to Logcat. You can filter by the tag ActivityLifeCycle to see a clean sequence of events as you interact with the app.
-![image_alt]([](!https://github.com/mohansivaraot/MAD_23012531058_Pra2/blob/438e30e006790d972a4303837e5699c2a8b1817a/Screenshot%202025-11-27%20093916.png)]
+![image_alt](!https://github.com/mohansivaraot/MAD_23012531058_Pra2/blob/438e30e006790d972a4303837e5699c2a8b1817a/Screenshot%202025-11-27%20093916.png)]
 
 
