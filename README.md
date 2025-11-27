@@ -1,4 +1,4 @@
-<img width="1268" height="368" alt="image" src="https://github.com/user-attachments/assets/718bca34-8637-40da-9b47-b22277cf2f83" /><img width="1268" height="368" alt="image" src="https://github.com/user-attachments/assets/593e1a43-b7d4-4a11-98cd-ad9530958eef" />Android Activity Lifecycle Demonstration
+Android Activity Lifecycle Demonstration
 This project is a simple Android application created to demonstrate the fundamental lifecycle of an Android Activity and display a basic UI screen.
 
 AIM
